@@ -1,0 +1,90 @@
+.services-container{
+    background-image: url("../../../public/palash.webp");
+    display: flex;
+    justify-content: flex-end;
+    height:70%;
+    margin:50px 0;
+}
+.services-contents{
+    background-color: white;
+    padding:30px;
+    width:500px;
+    margin-right: 200px;
+}
+.services-title{
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 2px;
+    margin-right:20px;
+}
+.services-heading{
+    font-family: sans-serif;
+    font-size: 40px;
+    padding:20px 0;
+}
+.services-list{
+    list-style-type: none;
+}
+.services-item{
+    display: flex;
+    align-items: center;
+    margin-bottom:20px;
+}
+.service-icon{
+    width:50px;
+    height:50px;
+    border-radius: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+}
+.security{
+    background-color: #cce6f4;
+}
+.hours{
+    background-color: #f0dde9;  
+}
+.restaurant{
+    background-color:#ecdef3;
+}
+.tourist{
+    background-color: #f3dfe2;
+}
+.service-text{
+    font-family: sans-serif;
+    font-size: 19px;
+    font-weight: 600;
+}
+.services-box{
+    background-color: white;
+    margin:50px 180px;    
+    height:110px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.service-box-contents{
+    text-align: center;
+}
+.service-box-text{
+    font-family: sans-serif;
+    font-size: 16px;
+    color:rgb(94, 93, 93);
+}
+.gallery-title{
+    font-family: sans-serif;
+    justify-content: center;
+    margin: 30px;
+    
+}
+.title{
+    justify-content: center;
+}
+.styling-line{
+    border: 2px solid#eb346b;
+    width:10%;
+}

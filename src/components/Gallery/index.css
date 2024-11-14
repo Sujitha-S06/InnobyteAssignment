@@ -1,0 +1,13 @@
+.gallery-container{
+    width:100vw;
+    height: 800px;
+}
+.row{
+    display: flex;
+    align-items: center;
+}
+.column2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
